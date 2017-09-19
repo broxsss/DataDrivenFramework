@@ -6,6 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.Assert;
+import org.testng.annotations.Test;
 
 import com.datadriven.Utility.Constant;
 import com.datadriven.Utility.ExcelUtils;
@@ -13,10 +14,12 @@ import com.datadriven.components.SignIn_Action;
 import com.datadriven.pageobjects.Home_Page;
 import com.datadriven.property.propertyfile;
 
+
 public class TestCase01 {
     static propertyfile prop = new propertyfile();
 	private static WebDriver driver = null;
 
+	@Test
 	public void TestCase1() throws Exception {
 
 		try
