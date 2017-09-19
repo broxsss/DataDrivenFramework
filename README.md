@@ -5,8 +5,5 @@ Here I have used only one driver i.e chrome driver because here i want to show m
 
 To check how to run with different browser check my seleniumExample repo.
 
-And
-
-Here i have not used log4j, screenshot and custom report, if any body want to know more about them how to use them or integrate in project check  my Keyworddrivenframework repo.
-
-I will add them in this project also ASAP.
+This project has screenshot on failure and report implementation also.....check the screenshot and report folder after running program...    
+you can configure pom to create a job with jenkins.
