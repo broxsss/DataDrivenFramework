@@ -1,2 +1,2 @@
 # DataDrivenFramework
-DataDrivenFramework using Selenium to automate PHPTRAVEL Website
+DataDrivenFramework using Selenium to automate http://automationpractice.com/index.php Website
